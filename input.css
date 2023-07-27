@@ -8,5 +8,6 @@
     height: 300px;
     left: 30%;
     @apply absolute rounded-l-full top-52 bg-softBlue;
-  }
+  },
+  
 }
